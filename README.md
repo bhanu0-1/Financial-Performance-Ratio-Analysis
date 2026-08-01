@@ -8,7 +8,7 @@
 > demonstrating ratio analysis, distress detection, and forecast reliability testing 
 > for a Financial Analyst role.
 
-![Executive Summary](dashboard/page1_executive_summary.png)
+
 
 ## Table of Contents
 - [Objective](#objective)
@@ -81,6 +81,8 @@ number itself.
 
 **Page 1 — Executive Summary:** KPI cards, Revenue trend by company, Net Income 
 YoY % (with an isolated AIG outlier-spotlight view)
+![Executive Summary](dashboard/page1_executive_summary.png)
+
 
 **Page 2 — Ratio Heatmap & Forecast Validation:** Conditional-formatted ROE 
 heatmap across all companies and years, Actual vs. Predicted revenue backtest table
